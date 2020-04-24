@@ -1,4 +1,4 @@
-# how to put a <div> inside a <div>
+# how to put a div inside a totally different div
 
 ```html
 <div>

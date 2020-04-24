@@ -30,7 +30,7 @@ _5 TILs and counting..._
 - [How to make the best hello world ever](Go/the-best-hello-world-ever.md)
 
 ### [HTML](#HTML)
-- [how to put a <div> inside a <div>](HTML/div-within-a-div.md)
+- [how to put a div inside a totally different div](HTML/div-within-a-div.md)
 
 ### [K8s](#K8s)
 - [Inter-Service Communication Monitoring](K8s/inter-service-communication-monitoring.md)

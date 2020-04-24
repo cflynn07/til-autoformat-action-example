@@ -1,7 +1,8 @@
 # TIL
 > Today I Learned
 
-EXAMPLE REPO
+### Example Repo  
+  
 This is an example repository that uses my GitHub Action
 [cflynn07/github-action-til-autoformat-readme][3]. This GitHub Action
 automatically generated this README.md based on the TILs in this repository.

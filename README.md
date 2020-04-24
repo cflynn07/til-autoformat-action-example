@@ -15,27 +15,29 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_6 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### Catagories
 
-- [bang](#bang)
-- [bar](#bar)
-- [biz](#biz)
+- [Go](#Go)
+- [HTML](#HTML)
+- [K8s](#K8s)
+- [Magic](#Magic)
 
-### [bang](#bang)
-- [Bang1-test here](bang/bang1-test.md)
+### [Go](#Go)
+- [How to make the best hello world ever](Go/the-best-hello-world-ever.md)
 
-### [bar](#bar)
-- [Another sample TIL](bar/another-sample-til.md)
-- [Bar2 test here](bar/bar2-test.md)
-- [test3](bar/test3.md)
+### [HTML](#HTML)
+- [how to put a <div> inside a <div>](HTML/div-within-a-div.md)
 
-### [biz](#biz)
-- [fooballs test hahhaha](biz/fooballs-test.md)
-- [bizbabbasdf](biz/fooballs-test2.md)
+### [K8s](#K8s)
+- [Inter-Service Communication Monitoring](K8s/inter-service-communication-monitoring.md)
+- [One simple command to see what's going on in your competitor's cluster](K8s/spy-on-your-competitors-clusters.md)
+
+### [Magic](#Magic)
+- [Make a Spell to Fly](Magic/make-a-spell-to-fly.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til

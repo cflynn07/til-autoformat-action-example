@@ -11,7 +11,7 @@ automatically generated this README.md based on the TILs in this repository.
 
 A collection of concrete writeups of small things I learn daily while working
 and researching. My goal is to work in public. I was inspired to start this
-repository after reading Simon Wilson's [hacker new post][1], and he was
+repository after reading Simon Wilson's [Hacker News post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 

@@ -15,7 +15,7 @@ jobs:
         # necessary for github-action-til-autoformat-readme
         fetch-depth: 0
     - name: Autoformat README
-      uses: cflynn07/github-action-til-autoformat-readme@feature-list-most-recent
+      uses: cflynn07/github-action-til-autoformat-readme@1.1.0
       with:
         description: |
           ### Example Repo  
@@ -34,4 +34,4 @@ jobs:
           [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
           [2]: https://github.com/jbranchaud/til
           [3]: https://github.com/cflynn07/github-action-til-autoformat-readme
-        list_most_recent: '2'
+        list_most_recent: 2

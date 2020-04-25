@@ -7,7 +7,7 @@ This is an example repository that uses my GitHub Action
 [cflynn07/github-action-til-autoformat-readme][3]. This GitHub Action
 automatically generated this README.md based on the TILs in this repository.
 
-a test change. Second test change
+a test change. Second test change. Test 3.
 
 ---
 
@@ -23,8 +23,8 @@ _8 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [How to add CSS borders](CSS/how-to-add-borders.md) - 
-- [How to make the best hello world ever](Go/the-best-hello-world-ever.md) - 
+- [How to turn people into frogs](Magic/turn-people-into-frogs.md) - Sat Apr 25 20:42:48 2020 +0800
+- [How to add CSS borders](CSS/how-to-add-borders.md) - Sat Apr 25 15:50:56 2020 +0800
 
 ### Categories
 

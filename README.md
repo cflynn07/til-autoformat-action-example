@@ -15,16 +15,21 @@ repository after reading Simon Wilson's [Hacker News post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_5 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
-### Catagories
+### Categories
 
+- [CSS](#CSS)
 - [Go](#Go)
 - [HTML](#HTML)
 - [K8s](#K8s)
 - [Magic](#Magic)
+- [PHP](#PHP)
+
+### [CSS](#CSS)
+- [How to add CSS borders](CSS/how-to-add-borders.md)
 
 ### [Go](#Go)
 - [How to make the best hello world ever](Go/the-best-hello-world-ever.md)
@@ -38,6 +43,9 @@ _5 TILs and counting..._
 
 ### [Magic](#Magic)
 - [Make a Spell to Fly](Magic/make-a-spell-to-fly.md)
+
+### [PHP](#PHP)
+- [How I learned I shouldn't be using PHP](PHP/how-I-learned-PHP-is-terrible.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til

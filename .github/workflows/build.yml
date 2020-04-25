@@ -24,6 +24,8 @@ jobs:
           [cflynn07/github-action-til-autoformat-readme][3]. This GitHub Action
           automatically generated this README.md based on the TILs in this repository.
 
+          a test change
+
           ---
 
           A collection of concrete writeups of small things I learn daily while working

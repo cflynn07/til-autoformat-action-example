@@ -15,7 +15,7 @@ repository after reading Simon Wilson's [Hacker News post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -43,6 +43,7 @@ _7 TILs and counting..._
 
 ### [Magic](#Magic)
 - [Make a Spell to Fly](Magic/make-a-spell-to-fly.md)
+- [How to turn people into frogs](Magic/turn-people-into-frogs.md)
 
 ### [PHP](#PHP)
 - [How I learned I shouldn't be using PHP](PHP/how-I-learned-PHP-is-terrible.md)

@@ -14,8 +14,6 @@ jobs:
       with:
         # necessary for github-action-til-autoformat-readme
         fetch-depth: 0
-    - name: Setup tmate session
-      uses: mxschmitt/action-tmate@v2
     - name: Autoformat README
       uses: cflynn07/github-action-til-autoformat-readme@master
       with:
@@ -26,7 +24,7 @@ jobs:
           [cflynn07/github-action-til-autoformat-readme][3]. This GitHub Action
           automatically generated this README.md based on the TILs in this repository.
 
-          a test change. Second test change
+          a test change. Second test change. Test 3.
 
           ---
 

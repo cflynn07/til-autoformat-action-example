@@ -7,6 +7,8 @@ This is an example repository that uses my GitHub Action
 [cflynn07/github-action-til-autoformat-readme][3]. This GitHub Action
 automatically generated this README.md based on the TILs in this repository.
 
+a test change. Second test change
+
 ---
 
 A collection of concrete writeups of small things I learn daily while working
@@ -18,6 +20,11 @@ apparently inspired by Josh Branchaud's [TIL collection][2].
 _8 TILs and counting..._
 
 ---
+
+### 2 most recent TILs
+
+- [How to add CSS borders](CSS/how-to-add-borders.md) - 
+- [How to make the best hello world ever](Go/the-best-hello-world-ever.md) - 
 
 ### Categories
 

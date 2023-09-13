@@ -23,37 +23,37 @@ _8 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [How to add CSS borders](css/how-to-add-borders.md) - 01 Jan 01 00:00 UTC
-- [How to make the best hello world ever](go/the-best-hello-world-ever.md) - 01 Jan 01 00:00 UTC
+- [How to turn people into frogs](Magic/turn-people-into-frogs.md) - 25 Apr 20 20:42 +0800
+- [How to add CSS borders](CSS/how-to-add-borders.md) - 25 Apr 20 15:50 +0800
 
 ### Categories
 
-- [css](#css)
-- [go](#go)
-- [html](#html)
-- [k8s](#k8s)
-- [magic](#magic)
-- [php](#php)
+- [CSS](#css)
+- [Go](#go)
+- [HTML](#html)
+- [K8s](#k8s)
+- [Magic](#magic)
+- [PHP](#php)
 
-### [css](#css)
-- [How to add CSS borders](css/how-to-add-borders.md)
+### [CSS](#css)
+- [How to add CSS borders](CSS/how-to-add-borders.md)
 
-### [go](#go)
-- [How to make the best hello world ever](go/the-best-hello-world-ever.md)
+### [Go](#go)
+- [How to make the best hello world ever](Go/the-best-hello-world-ever.md)
 
-### [html](#html)
-- [how to put a div inside a totally different div](html/div-within-a-div.md)
+### [HTML](#html)
+- [how to put a div inside a totally different div](HTML/div-within-a-div.md)
 
-### [k8s](#k8s)
-- [Inter-Service Communication Monitoring](k8s/inter-service-communication-monitoring.md)
-- [One simple command to see what's going on in your competitor's cluster](k8s/spy-on-your-competitors-clusters.md)
+### [K8s](#k8s)
+- [Inter-Service Communication Monitoring](K8s/inter-service-communication-monitoring.md)
+- [One simple command to see what's going on in your competitor's cluster](K8s/spy-on-your-competitors-clusters.md)
 
-### [magic](#magic)
-- [Make a Spell to Fly](magic/make-a-spell-to-fly.md)
-- [How to turn people into frogs](magic/turn-people-into-frogs.md)
+### [Magic](#magic)
+- [Make a Spell to Fly](Magic/make-a-spell-to-fly.md)
+- [How to turn people into frogs](Magic/turn-people-into-frogs.md)
 
-### [php](#php)
-- [How I learned I shouldn't be using PHP](php/how-I-learned-PHP-is-terrible.md)
+### [PHP](#php)
+- [How I learned I shouldn't be using PHP](PHP/how-I-learned-PHP-is-terrible.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
